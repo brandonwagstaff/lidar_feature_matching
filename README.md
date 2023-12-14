@@ -17,5 +17,6 @@ Will be following the WandB introductory MLOps course.
 - [x] Set up Sinkhorn-Knopp algorithm for keypoint matching (test with SIFT)
 - [ ] Implement contrastive matching loss
 - [ ] Implement differentiable pose optimizer (2D, solves for translation and yaw angle)
+- [ ] Implement pose loss
 - [ ] Network training experiments
 - [ ] Model evaluation
