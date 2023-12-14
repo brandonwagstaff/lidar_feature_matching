@@ -10,7 +10,7 @@ Will be following the WandB introductory MLOps course.
 
 ## Steps:
 
-- [ ] Acquire a dataset (preferably an AV dataset, only train using single scans
+- [x] Acquire a dataset (starting with Nuscenes mini)
 - [ ] Set up pytorch training dataloader (use single scans, and generate a second cloud by transforming with a known pose)
 - [ ] Exploratory data analysis in W&B
 - [ ] Get basic network architecture
